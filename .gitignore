@@ -157,3 +157,4 @@ cython_debug/
 *.code-workspace
 .vscode/
 .DS_Store
+catboost_info/
