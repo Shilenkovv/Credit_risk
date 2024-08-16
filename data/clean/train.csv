@@ -1,4 +1,4 @@
-checking_status,duration_months,credit_history,purpose,credit_amount,savings_status,employment_years,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,target
+checking_status,duration_months,credit_history,purpose,credit_amount,savings_status,employment_years,installment_commitment,personal_status,other_parties,residence_years,property_magnitude,age_years,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,target
 no checking,18,critical/other existing credit,radio/tv,1800,<100,1<=X<4,4,male single,none,2,car,24,none,own,2,skilled,1,none,yes,0
 <0,24,existing paid,radio/tv,2439,<100,<1,4,female div/dep/mar,none,4,real estate,35,none,own,1,skilled,1,yes,yes,1
 no checking,36,no credits/all paid,repairs,2613,<100,1<=X<4,4,male single,none,2,car,27,none,own,2,skilled,1,none,yes,0
